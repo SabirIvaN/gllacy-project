@@ -1,5 +1,7 @@
 # "Gllacy" project
 
+## Description
+
 "Gllacy" is a project of an online store of cute handmade gizmos for the home. It was created for the sale of interior items and children's toys.
 
 To develop the project, we used:
