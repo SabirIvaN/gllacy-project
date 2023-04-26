@@ -7,4 +7,4 @@ To develop the project, we used:
 * CSS
 * JavaScript
 
-The project was written using flexboxes. Made in accordance with the Pixel Perfect methodology and BEM. The normalize.css file is used for cross-browser compatibility. All CSS and JS files are minimized.
+The project was written using flexboxes. Made in accordance with the Pixel Perfect methodology and BEM. The normalize.css file is used for cross-browser compatibility. All CSS and JS files are minimized. The project uses the Roboto font.
